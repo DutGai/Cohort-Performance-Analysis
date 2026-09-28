@@ -240,6 +240,6 @@ SQL scripts directory: `/sql/`
 
 ## Contact
 
-LinkedIN:[Dut Gai]-(https://www.linkedin.com/in/dut-gai)
+LinkedIN:[Dut Gai](https://www.linkedin.com/in/dut-gai)
 
-Github:[Dut Gai]-(https://github.com/dut-gai)
+Github:[Dut Gai](https://github.com/dut-gai)
